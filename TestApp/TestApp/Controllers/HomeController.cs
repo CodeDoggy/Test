@@ -10,7 +10,7 @@ namespace TestApp.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Version 1";
+            ViewBag.Message = "Version 2";
 
             return View();
         }
